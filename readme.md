@@ -13,4 +13,4 @@ User Login
 - username : admin
 - password : rahasia
 
-# Noted : nitip yh belum selesei yang saya up hanya admin panelny saja yang digunakan untuk menambahkan Kategori serta Barang
+# Noted : enitip  belum selesei yang saya up hanya admin panelny saja yang digunakan untuk menambahkan Kategori serta Barang
